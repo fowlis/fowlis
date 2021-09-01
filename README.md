@@ -10,5 +10,5 @@
 • <a href="https://github.com/fowlis/CatboyBot-Refined#readme" target="_blank">CatboyBot</a> (personal Discord bot) <br />
 • Nothing else at the moment.
 
-## Methods of Contact
+## Method of Contact
 • Email: fowlis@protonmail.com <br />
