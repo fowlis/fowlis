@@ -7,8 +7,8 @@
 • I am a novice in JavaScript and HTML, would like to develop this further.
 
 ## Projects
-• <a href="https://github.com/fowlis/CatboyBot-Refined#readme" target="_blank">CatboyBot</a> (personal Discord bot) <br />
-• <a href="https://fowlis.github.io/"> Website </a> - for practising HTML and CSS <br />
+• <a href="https://github.com/fowlis/CatboyBot-Refined#readme" target="_blank">CatboyBot</a> (personal Discord bot)<br />
+• <a href="https://fowlis.github.io/"> Website </a> - for practising HTML and CSS<br />
 • Nothing else at the moment.
 
 ## Method of Contact
