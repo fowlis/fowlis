@@ -12,3 +12,4 @@
 
 ## Method of Contact:
 • Email: fowlis@protonmail.com <br />
+• ![My Discord](https://discord-readme-badge.vercel.app/api?id=234600632567201792)
