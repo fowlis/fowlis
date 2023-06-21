@@ -7,8 +7,8 @@
 
 ## Things of (potential) interest:
 - <a href="https://github.com/fowlis/bd-plugins">My BetterDiscord plugins</a> (still in development)
-- <a href="https://github.com/fowlis/CatboyBot-Refined#readme" target="_blank">CatboyBot</a> - my personal Discord bot (not much to see but you can laugh at my awful code)<br />
 - <a href="https://fowlis.github.io/">My Website</a> - I use this to practice HTML, CSS & JS<br />
+- <a href="https://github.com/fowlis/CatboyBot-Refined#readme" target="_blank">CatboyBot (abandoned)</a> - my personal Discord bot (not much to see but you can laugh at my awful code)<br />
 
 ## Method of Contact:
 • Email: fowlis@protonmail.com <br />
